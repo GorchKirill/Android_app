@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Инвестиционный калькулятор</string>
+    <string name="Расчет_по_кредитам">Расчет по кредитам</string>
+    <string name="Расчет_по_Вкладам">Расчет по вкладам</string>
+    <string name="title_activity_kredit">Activity_Kredit</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="loan_amount_prompt">Сумма: &#160;&#160;</string>
+    <string name="interest_rate_prompt">Процентная ставка:&#160;&#160;</string>
+    <string name="loan_period_prompt">Период: &#160;&#160;</string>
+    <string name="loan_button_text">Расчитать</string>
+    <string name="monthly_payment_prompt">Ежемесячный платеж: &#160;&#160;</string>
+    <string name="total_payments_prompt">Всего к оплате: &#160;&#160;</string>
+    <string name="loan_amount">Сумма вклада: &#160;&#160;</string>
+    <string name="interest_rate">Процентная ставка:&#160;&#160;</string>
+    <string name="loan_period">Период: &#160;&#160;</string>
+    <string name="loan_button">Расчитать</string>
+    <string name="total_payments">Итого: &#160;&#160;</string>
+    <string name="loan_button_delete">Очистить</string>
+    <string name="loan_button_delete_all">Очистить</string>
+    <string name="title_activity_easy_amount_or_hard_amount">Easy_Amount_or_hard_amount</string>
+    <string name="Сложные_проценты">Сложные проценты</string>
+    <string name="Простые_проценты">Простые проценты</string>
+    <string name="title_activity_easy_amount">Activity_Easy_amount</string>
+
+
+</resources>
